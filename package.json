@@ -1,0 +1,14 @@
+{
+  "name": "dat_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Martin Jansson",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.2.0"
+  }
+}
